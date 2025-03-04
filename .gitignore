@@ -1,0 +1,5 @@
+### Your template
+out/
+target/
+*.iml
+.idea/
